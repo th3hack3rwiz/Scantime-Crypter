@@ -1,5 +1,5 @@
 # Scantime-Crypter
-The project aims at building a Scan-Time Crypter that can assist a malware in bypassing antivirus software. The Crypter will open the malware from the disk while creating another output file to the disk. The Crypter will then extract the contents from the malware and obfuscate them using XOR encryption algorithm. The obfuscated contents will then be written to the previously created output file. When the obfuscated file is opened by the victim, the Crypter will then start the de-obfuscation process by using the same key it used to encrypt it in the first place. 
+The project aims at building a Scan-Time Crypter in C, that can assist a malware in bypassing antivirus software. The Crypter will open the malware from the disk while creating another output file to the disk. The Crypter will then extract the contents from the malware and obfuscate them using XOR encryption algorithm. The obfuscated contents will then be written to the previously created output file. When the obfuscated file is opened by the victim, the Crypter will then start the de-obfuscation process by using the same key it used to encrypt it in the first place. 
 
 ### The entire implementation of this project can be summarized in the following steps:
 
@@ -19,6 +19,8 @@ The project aims at building a Scan-Time Crypter that can assist a malware in by
 
 4. Testing the Cryper: The Crypter will then be tested on services like [www.virustotal.com](http://www.virustotal.com/) and other antivirus software to prove the successful bypassing of Malware from security software.
 
+ 
+#### ***Check out Implementation_Guide.docx for step by step procedure.***
  
 
 ### **ALGORITHM**
