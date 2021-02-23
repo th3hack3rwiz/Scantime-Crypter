@@ -78,3 +78,8 @@ The project aims at building a Scan-Time Crypter in C, that can assist a malware
 - The XOR encryption algorithm has a time complexity of O(n), which is the same as Base64 Encoding and ROT13, but the latter two have greater space complexities, and hence the encryption and decryption process becomes longer since the number of variables and the execution time is more. 
 
 - In conclusion, the XOR Encryption algorithm is much more compact, reliable and efficient in comparison to other algorithms like Base64 Encoding and ROT13. 
+
+
+### Implementation 
+
+![Implementation guide](https://th3hack3rwiz.github.io/images/Scan-Time%20Crypter/implementation_guide.gif)
