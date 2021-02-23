@@ -80,6 +80,9 @@ The project aims at building a Scan-Time Crypter in C, that can assist a malware
 - In conclusion, the XOR Encryption algorithm is much more compact, reliable and efficient in comparison to other algorithms like Base64 Encoding and ROT13. 
 
 
-### Implementation 
+### IMPLEMENTATION 
 
-![Implementation guide](https://th3hack3rwiz.github.io/images/Scan-Time%20Crypter/implementation_guide.gif)
+[![Watch the video](https://th3hack3rwiz.github.io/images/Scan-Time%20Crypter/cover.PNG)](https://player.vimeo.com/video/515842748)
+
+
+
